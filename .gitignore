@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.wav
+*.mp3
+transcript.txt
+transcript.srt
+frame_*.jpg
+contact_sheet.jpg
